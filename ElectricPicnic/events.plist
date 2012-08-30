@@ -1,0 +1,5802 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>band</key>
+		<string>Kormacs Big Band</string>
+		<key>startTime</key>
+		<date>2012-08-31T16:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-08-31T16:45:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Main Stage</string>
+		<key>url</key>
+		<string>http://electricpicnic.ie/kormacsbigband</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Alabama Shakes</string>
+		<key>startTime</key>
+		<date>2012-08-31T17:30:00Z</date>
+		<key>endTime</key>
+		<date>2012-08-31T18:30:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Main Stage</string>
+		<key>url</key>
+		<string>http://electricpicnic.ie/alabamashakes</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Gavin Friday</string>
+		<key>startTime</key>
+		<date>2012-08-31T19:15:00Z</date>
+		<key>endTime</key>
+		<date>2012-08-31T20:15:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Main Stage</string>
+		<key>url</key>
+		<string>http://electricpicnic.ie/gavinfriday1</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>The XX</string>
+		<key>startTime</key>
+		<date>2012-08-31T21:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-08-31T22:00:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Main Stage</string>
+		<key>url</key>
+		<string>http://electricpicnic.ie/thexx</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Sigur Ros</string>
+		<key>startTime</key>
+		<date>2012-08-31T22:30:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-01T00:00:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Main Stage</string>
+		<key>url</key>
+		<string>http://electricpicnic.ie/sigurrs</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Wonder Villains</string>
+		<key>startTime</key>
+		<date>2012-08-31T15:45:00Z</date>
+		<key>endTime</key>
+		<date>2012-08-31T16:30:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Electric Arena</string>
+		<key>url</key>
+		<string>http://electricpicnic.ie/thewondervillians</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Grandaddy</string>
+		<key>startTime</key>
+		<date>2012-08-31T17:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-08-31T18:00:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Electric Arena</string>
+		<key>url</key>
+		<string>http://electricpicnic.ie/grandaddy</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Grizzly Bear</string>
+		<key>startTime</key>
+		<date>2012-08-31T18:30:00Z</date>
+		<key>endTime</key>
+		<date>2012-08-31T19:30:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Electric Arena</string>
+		<key>url</key>
+		<string>http://electricpicnic.ie/grizzlybear</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>The Maccabees</string>
+		<key>startTime</key>
+		<date>2012-08-31T20:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-08-31T21:00:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Electric Arena</string>
+		<key>url</key>
+		<string>http://electricpicnic.ie/themaccabees</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>The Vaccines</string>
+		<key>startTime</key>
+		<date>2012-08-31T21:30:00Z</date>
+		<key>endTime</key>
+		<date>2012-08-31T22:30:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Electric Arena</string>
+		<key>url</key>
+		<string>http://electricpicnic.ie/thevaccines1</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Ed Sheeran</string>
+		<key>startTime</key>
+		<date>2012-08-31T23:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-01T00:00:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Electric Arena</string>
+		<key>url</key>
+		<string>http://electricpicnic.ie/edsheeran</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Eagle And The Worm</string>
+		<key>startTime</key>
+		<date>2012-08-31T15:45:00Z</date>
+		<key>endTime</key>
+		<date>2012-08-31T16:15:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Crawdaddy Stage</string>
+		<key>url</key>
+		<string>http://electricpicnic.ie/eagleandtheworm</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Cold Specks</string>
+		<key>startTime</key>
+		<date>2012-08-31T16:30:00Z</date>
+		<key>endTime</key>
+		<date>2012-08-31T17:10:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Crawdaddy Stage</string>
+		<key>url</key>
+		<string>http://electricpicnic.ie/coldspecks</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Little Roy</string>
+		<key>startTime</key>
+		<date>2012-08-31T17:30:00Z</date>
+		<key>endTime</key>
+		<date>2012-08-31T18:10:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Crawdaddy Stage</string>
+		<key>url</key>
+		<string>http://electricpicnic.ie/littleroy</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>The Jezabels</string>
+		<key>startTime</key>
+		<date>2012-08-31T18:30:00Z</date>
+		<key>endTime</key>
+		<date>2012-08-31T19:15:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Crawdaddy Stage</string>
+		<key>url</key>
+		<string>http://electricpicnic.ie/thejezabels12</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Metronomy</string>
+		<key>startTime</key>
+		<date>2012-08-31T19:45:00Z</date>
+		<key>endTime</key>
+		<date>2012-08-31T20:45:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Crawdaddy Stage</string>
+		<key>url</key>
+		<string>http://electricpicnic.ie/metronomy</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Mark Lanegan</string>
+		<key>startTime</key>
+		<date>2012-08-31T21:30:00Z</date>
+		<key>endTime</key>
+		<date>2012-08-31T22:30:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Crawdaddy Stage</string>
+		<key>url</key>
+		<string>http://electricpicnic.ie/marklanegan</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Christy Moore</string>
+		<key>startTime</key>
+		<date>2012-08-31T23:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-01T00:00:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Crawdaddy Stage</string>
+		<key>url</key>
+		<string>http://electricpicnic.ie/christymoore</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Gypsies On The Autobahn</string>
+		<key>startTime</key>
+		<date>2012-08-31T15:45:00Z</date>
+		<key>endTime</key>
+		<date>2012-08-31T16:15:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Cosby Stage</string>
+		<key>url</key>
+		<string>http://electricpicnic.ie/</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Nell Bryden</string>
+		<key>startTime</key>
+		<date>2012-08-31T16:30:00Z</date>
+		<key>endTime</key>
+		<date>2012-08-31T17:00:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Cosby Stage</string>
+		<key>url</key>
+		<string>http://electricpicnic.ie/nellbryden</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Bats</string>
+		<key>startTime</key>
+		<date>2012-08-31T17:15:00Z</date>
+		<key>endTime</key>
+		<date>2012-08-31T17:45:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Cosby Stage</string>
+		<key>url</key>
+		<string>http://electricpicnic.ie/bats</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Jeffrey Lewis</string>
+		<key>startTime</key>
+		<date>2012-08-31T18:05:00Z</date>
+		<key>endTime</key>
+		<date>2012-08-31T18:50:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Cosby Stage</string>
+		<key>url</key>
+		<string>http://electricpicnic.ie/jeffreylewis</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Willis Earl Beal</string>
+		<key>startTime</key>
+		<date>2012-08-31T19:10:00Z</date>
+		<key>endTime</key>
+		<date>2012-08-31T19:50:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Cosby Stage</string>
+		<key>url</key>
+		<string>http://electricpicnic.ie/willisearlbeal</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Roots Manuva</string>
+		<key>startTime</key>
+		<date>2012-08-31T20:15:00Z</date>
+		<key>endTime</key>
+		<date>2012-08-31T21:15:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Cosby Stage</string>
+		<key>url</key>
+		<string>http://electricpicnic.ie/rootsmanuva</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Patrick Watson</string>
+		<key>startTime</key>
+		<date>2012-08-31T21:45:00Z</date>
+		<key>endTime</key>
+		<date>2012-08-31T22:30:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Cosby Stage</string>
+		<key>url</key>
+		<string>http://electricpicnic.ie/patrickwatson12</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>T3 DJs</string>
+		<key>startTime</key>
+		<date>2012-08-31T16:30:00Z</date>
+		<key>endTime</key>
+		<date>2012-08-31T17:30:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Little Big Tent</string>
+		<key>url</key>
+		<string>http://electricpicnic.ie/</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>T3 DJs</string>
+		<key>startTime</key>
+		<date>2012-08-31T17:30:00Z</date>
+		<key>endTime</key>
+		<date>2012-08-31T18:30:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Little Big Tent</string>
+		<key>url</key>
+		<string>http://electricpicnic.ie/</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Amine Edge</string>
+		<key>startTime</key>
+		<date>2012-08-31T18:30:00Z</date>
+		<key>endTime</key>
+		<date>2012-08-31T20:00:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Little Big Tent</string>
+		<key>url</key>
+		<string>http://electricpicnic.ie/amineedge</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Catz + Dogz</string>
+		<key>startTime</key>
+		<date>2012-08-31T20:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-08-31T21:30:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Little Big Tent</string>
+		<key>url</key>
+		<string>http://electricpicnic.ie/catzndogz</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>DJ Wild</string>
+		<key>startTime</key>
+		<date>2012-08-31T21:30:00Z</date>
+		<key>endTime</key>
+		<date>2012-08-31T23:00:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Little Big Tent</string>
+		<key>url</key>
+		<string>http://electricpicnic.ie/</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Richie Hawtin</string>
+		<key>startTime</key>
+		<date>2012-08-31T23:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-01T01:00:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Little Big Tent</string>
+		<key>url</key>
+		<string>http://electricpicnic.ie/richiehawtin</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Matador</string>
+		<key>startTime</key>
+		<date>2012-09-01T01:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-01T02:00:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Little Big Tent</string>
+		<key>url</key>
+		<string>http://electricpicnic.ie/</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Carosel</string>
+		<key>startTime</key>
+		<date>2012-08-31T16:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-08-31T16:45:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Salty Dog</string>
+		<key>url</key>
+		<string>http://electricpicnic.ie/</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Louisiana Six</string>
+		<key>startTime</key>
+		<date>2012-08-31T17:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-08-31T17:45:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Salty Dog</string>
+		<key>url</key>
+		<string>http://electricpicnic.ie/</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>The Niall Toner Band</string>
+		<key>startTime</key>
+		<date>2012-08-31T18:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-08-31T18:45:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Salty Dog</string>
+		<key>url</key>
+		<string>http://electricpicnic.ie/</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Homebrew And The Bad Examples</string>
+		<key>startTime</key>
+		<date>2012-08-31T19:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-08-31T19:45:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Salty Dog</string>
+		<key>url</key>
+		<string>http://electricpicnic.ie/</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Huey And The Hobgoblins</string>
+		<key>startTime</key>
+		<date>2012-08-31T20:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-08-31T20:45:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Salty Dog</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Shannon And The Shortcuts</string>
+		<key>startTime</key>
+		<date>2012-08-31T21:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-08-31T21:45:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Salty Dog</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Two Time Polka</string>
+		<key>startTime</key>
+		<date>2012-08-31T22:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-08-31T22:50:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Salty Dog</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Jerry Fish</string>
+		<key>startTime</key>
+		<date>2012-08-31T23:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-08-31T23:50:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Salty Dog</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>The Eskies</string>
+		<key>startTime</key>
+		<date>2012-09-01T01:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-01T01:50:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Salty Dog</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Swords</string>
+		<key>startTime</key>
+		<date>2012-09-01T02:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-01T02:50:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Salty Dog</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Black Friday</string>
+		<key>startTime</key>
+		<date>2012-09-01T03:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-01T04:00:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Salty Dog</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>James Kirwan</string>
+		<key>startTime</key>
+		<date>2012-08-31T16:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-08-31T21:00:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Algorythm: The Forrest Stage</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Cian Little Byrne</string>
+		<key>startTime</key>
+		<date>2012-08-31T21:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-08-31T22:00:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Algorythm: The Forrest Stage</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Nathen Jones</string>
+		<key>startTime</key>
+		<date>2012-08-31T22:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-08-31T23:00:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Algorythm: The Forrest Stage</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Lorcan Mak</string>
+		<key>startTime</key>
+		<date>2012-08-31T23:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-01T00:00:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Algorythm: The Forrest Stage</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Monto</string>
+		<key>startTime</key>
+		<date>2012-09-01T00:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-01T01:00:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Algorythm: The Forrest Stage</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Clu</string>
+		<key>startTime</key>
+		<date>2012-09-01T01:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-01T02:00:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Algorythm: The Forrest Stage</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Frank Sweeney</string>
+		<key>startTime</key>
+		<date>2012-09-01T02:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-01T03:00:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Algorythm: The Forrest Stage</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Steven Neligan</string>
+		<key>startTime</key>
+		<date>2012-09-01T03:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-01T04:00:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Algorythm: The Forrest Stage</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>DJ Will softly</string>
+		<key>startTime</key>
+		<date>2012-08-31T18:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-08-31T18:40:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Trenchtown</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Avatar</string>
+		<key>startTime</key>
+		<date>2012-08-31T19:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-08-31T19:40:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Trenchtown</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>DJ Tivo</string>
+		<key>startTime</key>
+		<date>2012-08-31T20:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-08-31T20:40:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Trenchtown</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Dubtown Vibration</string>
+		<key>startTime</key>
+		<date>2012-08-31T21:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-08-31T21:40:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Trenchtown</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>DJ Kali</string>
+		<key>startTime</key>
+		<date>2012-08-31T22:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-08-31T22:40:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Trenchtown</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Jameire</string>
+		<key>startTime</key>
+		<date>2012-08-31T23:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-08-31T23:40:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Trenchtown</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>DJ Cian Finn</string>
+		<key>startTime</key>
+		<date>2012-09-01T00:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-01T00:40:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Trenchtown</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Dub Investigation</string>
+		<key>startTime</key>
+		<date>2012-09-01T01:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-01T01:40:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Trenchtown</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Revelation Soundsystem DJ</string>
+		<key>startTime</key>
+		<date>2012-09-01T02:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-01T03:00:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Trenchtown</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Stevie G</string>
+		<key>startTime</key>
+		<date>2012-08-31T17:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-08-31T18:30:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Casa Bacardi</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Steve Manning</string>
+		<key>startTime</key>
+		<date>2012-08-31T18:30:00Z</date>
+		<key>endTime</key>
+		<date>2012-08-31T20:00:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Casa Bacardi</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Crazy P</string>
+		<key>startTime</key>
+		<date>2012-08-31T20:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-08-31T21:30:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Casa Bacardi</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Francois K</string>
+		<key>startTime</key>
+		<date>2012-08-31T21:30:00Z</date>
+		<key>endTime</key>
+		<date>2012-08-31T23:00:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Casa Bacardi</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>The Strypes</string>
+		<key>startTime</key>
+		<date>2012-08-31T18:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-08-31T18:30:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Body and Soul Main Stage</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Ross Breen</string>
+		<key>startTime</key>
+		<date>2012-08-31T19:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-08-31T19:30:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Body and Soul Main Stage</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Dirty Dubsters</string>
+		<key>startTime</key>
+		<date>2012-08-31T20:15:00Z</date>
+		<key>endTime</key>
+		<date>2012-08-31T21:15:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Body and Soul Main Stage</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>D E N A</string>
+		<key>startTime</key>
+		<date>2012-08-31T21:45:00Z</date>
+		<key>endTime</key>
+		<date>2012-08-31T22:30:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Body and Soul Main Stage</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Donal Dineenandrsquo;s Parish</string>
+		<key>startTime</key>
+		<date>2012-08-31T23:30:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-01T03:30:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Body and Soul Main Stage</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Cat Dowling</string>
+		<key>startTime</key>
+		<date>2012-08-31T19:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-08-31T19:30:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Body and Soul Earthship Stage</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>mynameisjOhn</string>
+		<key>startTime</key>
+		<date>2012-08-31T19:45:00Z</date>
+		<key>endTime</key>
+		<date>2012-08-31T20:25:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Body and Soul Earthship Stage</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Reid</string>
+		<key>startTime</key>
+		<date>2012-08-31T20:45:00Z</date>
+		<key>endTime</key>
+		<date>2012-08-31T21:35:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Body and Soul Earthship Stage</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Shane Mannion</string>
+		<key>startTime</key>
+		<date>2012-08-31T22:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-08-31T23:00:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Body and Soul Earthship Stage</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Big Dish Go</string>
+		<key>startTime</key>
+		<date>2012-08-31T23:30:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-01T00:30:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Body and Soul Earthship Stage</string>
+		<key>url</key>
+		<string>http://electricpicnic.ie/bigdishgo</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Paddy Dooley</string>
+		<key>startTime</key>
+		<date>2012-09-01T01:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-01T02:00:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Body and Soul Earthship Stage</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Frenchie</string>
+		<key>startTime</key>
+		<date>2012-09-01T02:30:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-01T03:30:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Body and Soul Earthship Stage</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Boy Lights Fire</string>
+		<key>startTime</key>
+		<date>2012-08-31T18:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-08-31T18:40:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Body and Soul Bamboo Stage</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Ana Gog</string>
+		<key>startTime</key>
+		<date>2012-08-31T19:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-08-31T19:50:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Body and Soul Bamboo Stage</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Bantum</string>
+		<key>startTime</key>
+		<date>2012-08-31T20:15:00Z</date>
+		<key>endTime</key>
+		<date>2012-08-31T21:05:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Body and Soul Bamboo Stage</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Forrests</string>
+		<key>startTime</key>
+		<date>2012-08-31T21:30:00Z</date>
+		<key>endTime</key>
+		<date>2012-08-31T22:20:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Body and Soul Bamboo Stage</string>
+		<key>url</key>
+		<string>http://electricpicnic.ie/forrests</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Lemonada</string>
+		<key>startTime</key>
+		<date>2012-08-31T22:45:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-01T00:05:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Body and Soul Bamboo Stage</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>TR One</string>
+		<key>startTime</key>
+		<date>2012-09-01T00:45:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-01T01:45:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Body and Soul Bamboo Stage</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Lisa Mc Laughlin</string>
+		<key>startTime</key>
+		<date>2012-08-31T19:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-08-31T19:40:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Oxjam Stage</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>MyOrchestral</string>
+		<key>startTime</key>
+		<date>2012-08-31T20:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-08-31T20:40:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Oxjam Stage</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Swords</string>
+		<key>startTime</key>
+		<date>2012-08-31T21:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-08-31T21:40:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Oxjam Stage</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Peter and The Pure Hearts</string>
+		<key>startTime</key>
+		<date>2012-08-31T22:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-08-31T22:40:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Oxjam Stage</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>The Amazing Few</string>
+		<key>startTime</key>
+		<date>2012-08-31T23:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-08-31T23:40:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Oxjam Stage</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>The Hot Sprockets</string>
+		<key>startTime</key>
+		<date>2012-09-01T00:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-01T00:40:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Oxjam Stage</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>DC Tempest</string>
+		<key>startTime</key>
+		<date>2012-09-01T01:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-01T01:40:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Oxjam Stage</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Punch Face Champion</string>
+		<key>startTime</key>
+		<date>2012-09-01T02:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-01T03:00:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Oxjam Stage</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>DJ Alice Beresford</string>
+		<key>startTime</key>
+		<date>2012-08-31T19:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-08-31T20:20:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Trailer Park</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Prison Love</string>
+		<key>startTime</key>
+		<date>2012-08-31T21:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-08-31T22:00:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Trailer Park</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Kevin Doyle and the Way it Was Orchestra</string>
+		<key>startTime</key>
+		<date>2012-08-31T22:30:00Z</date>
+		<key>endTime</key>
+		<date>2012-08-31T23:30:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Trailer Park</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Two Time Polka</string>
+		<key>startTime</key>
+		<date>2012-09-01T00:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-01T01:00:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Trailer Park</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Riptide Movement</string>
+		<key>startTime</key>
+		<date>2012-09-01T01:30:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-01T02:20:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Trailer Park</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Interstate 95: TR-ONE on the decks</string>
+		<key>startTime</key>
+		<date>2012-09-01T02:45:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-01T03:45:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Trailer Park</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Special Guest (DJ Set)</string>
+		<key>startTime</key>
+		<date>2012-08-31T19:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-08-31T20:20:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Convergence Stage</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Special Guest (DJ Set)</string>
+		<key>startTime</key>
+		<date>2012-08-31T21:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-08-31T22:00:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Convergence Stage</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Will Softly (DJ Set)</string>
+		<key>startTime</key>
+		<date>2012-08-31T22:30:00Z</date>
+		<key>endTime</key>
+		<date>2012-08-31T23:30:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Convergence Stage</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Trinity Orchestra</string>
+		<key>startTime</key>
+		<date>2012-09-01T12:15:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-01T13:45:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Main Stage</string>
+		<key>url</key>
+		<string>http://electricpicnic.ie/trinityorchestra</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Bellowhead</string>
+		<key>startTime</key>
+		<date>2012-09-01T14:30:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-01T15:30:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Main Stage</string>
+		<key>url</key>
+		<string>http://electricpicnic.ie/bellowhead</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Wild Beasts</string>
+		<key>startTime</key>
+		<date>2012-09-01T16:30:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-01T17:30:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Main Stage</string>
+		<key>url</key>
+		<string>http://electricpicnic.ie/wildbeasts</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Crystal Castles</string>
+		<key>startTime</key>
+		<date>2012-09-01T18:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-01T19:00:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Main Stage</string>
+		<key>url</key>
+		<string>http://electricpicnic.ie/crystalcastles</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Explosions In The Sky</string>
+		<key>startTime</key>
+		<date>2012-09-01T19:30:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-01T20:30:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Main Stage</string>
+		<key>url</key>
+		<string>http://electricpicnic.ie/explosionsinthesky</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>The Cure</string>
+		<key>startTime</key>
+		<date>2012-09-01T21:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-02T00:00:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Main Stage</string>
+		<key>url</key>
+		<string>http://electricpicnic.ie/thecure</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Orbital</string>
+		<key>startTime</key>
+		<date>2012-09-02T00:45:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-02T02:15:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Main Stage</string>
+		<key>url</key>
+		<string>http://electricpicnic.ie/orbital</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Heathers</string>
+		<key>startTime</key>
+		<date>2012-09-01T12:15:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-01T13:00:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Electric Arena</string>
+		<key>url</key>
+		<string>http://electricpicnic.ie/heathers</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Dry The River</string>
+		<key>startTime</key>
+		<date>2012-09-01T13:15:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-01T14:00:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Electric Arena</string>
+		<key>url</key>
+		<string>http://electricpicnic.ie/drytheriver</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>God is an Astronaut</string>
+		<key>startTime</key>
+		<date>2012-09-01T14:30:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-01T15:30:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Electric Arena</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Dexys</string>
+		<key>startTime</key>
+		<date>2012-09-01T16:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-01T17:00:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Electric Arena</string>
+		<key>url</key>
+		<string>http://electricpicnic.ie/dexys</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>SBTRKT</string>
+		<key>startTime</key>
+		<date>2012-09-01T17:30:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-01T18:30:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Electric Arena</string>
+		<key>url</key>
+		<string>http://electricpicnic.ie/sbtrkt</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Richard Hawley</string>
+		<key>startTime</key>
+		<date>2012-09-01T19:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-01T20:00:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Electric Arena</string>
+		<key>url</key>
+		<string>http://electricpicnic.ie/richardhawley</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Villagers</string>
+		<key>startTime</key>
+		<date>2012-09-01T20:45:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-01T21:45:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Electric Arena</string>
+		<key>url</key>
+		<string>http://electricpicnic.ie/villagers</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>The Roots</string>
+		<key>startTime</key>
+		<date>2012-09-01T22:30:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-02T00:00:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Electric Arena</string>
+		<key>url</key>
+		<string>http://electricpicnic.ie/theroots</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>SquarePusher</string>
+		<key>startTime</key>
+		<date>2012-09-02T00:30:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-02T01:30:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Electric Arena</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>A Plastic Rose</string>
+		<key>startTime</key>
+		<date>2012-09-01T12:30:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-01T13:00:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Crawdaddy Stage</string>
+		<key>url</key>
+		<string>http://electricpicnic.ie/aplasticrose</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Enemies</string>
+		<key>startTime</key>
+		<date>2012-09-01T13:20:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-01T14:00:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Crawdaddy Stage</string>
+		<key>url</key>
+		<string>http://electricpicnic.ie/enemies</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Cranes</string>
+		<key>startTime</key>
+		<date>2012-09-01T14:30:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-01T15:15:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Crawdaddy Stage</string>
+		<key>url</key>
+		<string>http://electricpicnic.ie/cranes</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Delorentos</string>
+		<key>startTime</key>
+		<date>2012-09-01T15:45:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-01T16:30:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Crawdaddy Stage</string>
+		<key>url</key>
+		<string>http://electricpicnic.ie/delorentos</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>David Kitt</string>
+		<key>startTime</key>
+		<date>2012-09-01T17:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-01T18:00:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Crawdaddy Stage</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Kimbra</string>
+		<key>startTime</key>
+		<date>2012-09-01T18:30:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-01T19:20:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Crawdaddy Stage</string>
+		<key>url</key>
+		<string>http://electricpicnic.ie/kimbra1</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Patti Smith</string>
+		<key>startTime</key>
+		<date>2012-09-01T20:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-01T21:00:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Crawdaddy Stage</string>
+		<key>url</key>
+		<string>http://electricpicnic.ie/pattismith</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>The Horrors</string>
+		<key>startTime</key>
+		<date>2012-09-01T21:45:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-01T22:45:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Crawdaddy Stage</string>
+		<key>url</key>
+		<string>http://electricpicnic.ie/thehorrors</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Bell X1</string>
+		<key>startTime</key>
+		<date>2012-09-01T23:30:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-02T00:30:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Crawdaddy Stage</string>
+		<key>url</key>
+		<string>http://electricpicnic.ie/bellx1</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Kid Karate</string>
+		<key>startTime</key>
+		<date>2012-09-01T12:10:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-01T12:40:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Cosby Stage</string>
+		<key>url</key>
+		<string>http://electricpicnic.ie/kidkarate1</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Moscow Metro</string>
+		<key>startTime</key>
+		<date>2012-09-01T12:55:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-01T13:25:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Cosby Stage</string>
+		<key>url</key>
+		<string>http://electricpicnic.ie/moscowmetro</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Tieranniesaur</string>
+		<key>startTime</key>
+		<date>2012-09-01T13:40:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-01T14:10:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Cosby Stage</string>
+		<key>url</key>
+		<string>http://electricpicnic.ie/tieranniesaur</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Gareth Dunlop</string>
+		<key>startTime</key>
+		<date>2012-09-01T14:25:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-01T14:55:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Cosby Stage</string>
+		<key>url</key>
+		<string>http://electricpicnic.ie/garethdunlop</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Cast Of Cheers</string>
+		<key>startTime</key>
+		<date>2012-09-01T15:15:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-01T16:00:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Cosby Stage</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Ham Sandwich</string>
+		<key>startTime</key>
+		<date>2012-09-01T16:25:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-01T17:10:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Cosby Stage</string>
+		<key>url</key>
+		<string>http://electricpicnic.ie/hamsandwich</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Turn</string>
+		<key>startTime</key>
+		<date>2012-09-01T17:35:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-01T18:20:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Cosby Stage</string>
+		<key>url</key>
+		<string>http://electricpicnic.ie/turn</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Something Happens</string>
+		<key>startTime</key>
+		<date>2012-09-01T18:50:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-01T19:35:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Cosby Stage</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>In Tua Nua</string>
+		<key>startTime</key>
+		<date>2012-09-01T20:05:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-01T20:50:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Cosby Stage</string>
+		<key>url</key>
+		<string>http://electricpicnic.ie/intuanua</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Wallis Bird</string>
+		<key>startTime</key>
+		<date>2012-09-01T21:20:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-01T22:00:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Cosby Stage</string>
+		<key>url</key>
+		<string>http://electricpicnic.ie/wallisbird</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Baxter Dury</string>
+		<key>startTime</key>
+		<date>2012-09-01T22:30:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-01T23:05:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Cosby Stage</string>
+		<key>url</key>
+		<string>http://electricpicnic.ie/baxterdury</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Grimes</string>
+		<key>startTime</key>
+		<date>2012-09-01T23:45:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-02T00:30:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Cosby Stage</string>
+		<key>url</key>
+		<string>http://electricpicnic.ie/grimes</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Hidden Agenda DJs</string>
+		<key>startTime</key>
+		<date>2012-09-01T12:30:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-01T13:30:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Little Big Tent</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>SubAltern</string>
+		<key>startTime</key>
+		<date>2012-09-01T13:30:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-01T14:15:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Little Big Tent</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Orquesta</string>
+		<key>startTime</key>
+		<date>2012-09-01T14:15:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-01T15:15:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Little Big Tent</string>
+		<key>url</key>
+		<string>http://electricpicnic.ie/orquesta</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Daithi</string>
+		<key>startTime</key>
+		<date>2012-09-01T15:30:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-01T16:15:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Little Big Tent</string>
+		<key>url</key>
+		<string>http://electricpicnic.ie/daithi</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>White Collar Boy</string>
+		<key>startTime</key>
+		<date>2012-09-01T16:30:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-01T17:15:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Little Big Tent</string>
+		<key>url</key>
+		<string>http://electricpicnic.ie/whitecollarboy</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Not Squares</string>
+		<key>startTime</key>
+		<date>2012-09-01T17:45:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-01T18:30:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Little Big Tent</string>
+		<key>url</key>
+		<string>http://electricpicnic.ie/notsquares</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Solar Bears</string>
+		<key>startTime</key>
+		<date>2012-09-01T19:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-01T19:45:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Little Big Tent</string>
+		<key>url</key>
+		<string>http://electricpicnic.ie/solarbears</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Hudson Mohawke</string>
+		<key>startTime</key>
+		<date>2012-09-01T20:30:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-01T21:30:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Little Big Tent</string>
+		<key>url</key>
+		<string>http://electricpicnic.ie/hudsonmohawke</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Rustie</string>
+		<key>startTime</key>
+		<date>2012-09-01T21:30:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-01T22:15:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Little Big Tent</string>
+		<key>url</key>
+		<string>http://electricpicnic.ie/rustie</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Caribou vs Fourtet</string>
+		<key>startTime</key>
+		<date>2012-09-01T22:30:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-02T00:30:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Little Big Tent</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Arveene and Misk</string>
+		<key>startTime</key>
+		<date>2012-09-02T00:45:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-02T01:30:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Little Big Tent</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Le Galaxie</string>
+		<key>startTime</key>
+		<date>2012-09-02T02:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-02T03:00:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Little Big Tent</string>
+		<key>url</key>
+		<string>http://electricpicnic.ie/legalaxie</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Pervish</string>
+		<key>startTime</key>
+		<date>2012-09-01T12:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-01T13:15:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Salty Dog</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Tucan</string>
+		<key>startTime</key>
+		<date>2012-09-01T13:30:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-01T14:30:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Salty Dog</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>[Most of] Camembert Quartet: The Nautical Request Hour</string>
+		<key>startTime</key>
+		<date>2012-09-01T14:40:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-01T15:30:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Salty Dog</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Propellor Palms</string>
+		<key>startTime</key>
+		<date>2012-09-01T16:55:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-01T17:40:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Salty Dog</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Barley Mob</string>
+		<key>startTime</key>
+		<date>2012-09-01T17:55:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-01T18:45:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Salty Dog</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Transformation Blues Band</string>
+		<key>startTime</key>
+		<date>2012-09-01T19:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-01T19:45:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Salty Dog</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Hat Fitz And Cara</string>
+		<key>startTime</key>
+		<date>2012-09-01T20:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-01T20:50:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Salty Dog</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Beef Supreme</string>
+		<key>startTime</key>
+		<date>2012-09-01T21:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-01T21:50:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Salty Dog</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Shane Hennessy</string>
+		<key>startTime</key>
+		<date>2012-09-01T22:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-01T22:10:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Salty Dog</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Bronagh Gallagher</string>
+		<key>startTime</key>
+		<date>2012-09-01T22:15:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-01T23:15:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Salty Dog</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Bellowhead</string>
+		<key>startTime</key>
+		<date>2012-09-01T23:30:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-02T00:20:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Salty Dog</string>
+		<key>url</key>
+		<string>http://electricpicnic.ie/bellowhead</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Ham Sandwich</string>
+		<key>startTime</key>
+		<date>2012-09-02T00:30:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-02T01:20:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Salty Dog</string>
+		<key>url</key>
+		<string>http://electricpicnic.ie/hamsandwich</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Morton Valance</string>
+		<key>startTime</key>
+		<date>2012-09-02T01:30:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-02T02:30:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Salty Dog</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Tierannisaur</string>
+		<key>startTime</key>
+		<date>2012-09-02T02:40:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-02T04:00:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Salty Dog</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>John Rainey</string>
+		<key>startTime</key>
+		<date>2012-09-01T16:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-01T17:00:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Algorythm: The Forrest Stage</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Jika Jika DJs</string>
+		<key>startTime</key>
+		<date>2012-09-01T17:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-01T18:00:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Algorythm: The Forrest Stage</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Republik DJs</string>
+		<key>startTime</key>
+		<date>2012-09-01T18:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-01T19:00:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Algorythm: The Forrest Stage</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Bunga Bunga DJs</string>
+		<key>startTime</key>
+		<date>2012-09-01T19:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-01T20:00:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Algorythm: The Forrest Stage</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Alex Zander</string>
+		<key>startTime</key>
+		<date>2012-09-01T20:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-01T21:00:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Algorythm: The Forrest Stage</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Simon Helsin</string>
+		<key>startTime</key>
+		<date>2012-09-01T21:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-01T22:00:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Algorythm: The Forrest Stage</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Phil Galvin Jnr</string>
+		<key>startTime</key>
+		<date>2012-09-01T22:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-01T23:00:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Algorythm: The Forrest Stage</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Doug Cooney</string>
+		<key>startTime</key>
+		<date>2012-09-01T23:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-02T00:00:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Algorythm: The Forrest Stage</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Paul Woolford Vs Psycatron</string>
+		<key>startTime</key>
+		<date>2012-09-02T00:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-02T02:00:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Algorythm: The Forrest Stage</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Loco and Jam</string>
+		<key>startTime</key>
+		<date>2012-09-02T02:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-02T04:00:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Algorythm: The Forrest Stage</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Irish Roots Army</string>
+		<key>startTime</key>
+		<date>2012-09-01T15:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-01T16:20:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Trenchtown</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Weedway</string>
+		<key>startTime</key>
+		<date>2012-09-01T17:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-01T17:40:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Trenchtown</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>DJ Dreadzilla</string>
+		<key>startTime</key>
+		<date>2012-09-01T18:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-01T18:40:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Trenchtown</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Trenchtown</string>
+		<key>startTime</key>
+		<date>2012-09-01T19:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-01T19:40:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Trenchtown</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>DJ Ram</string>
+		<key>startTime</key>
+		<date>2012-09-01T20:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-01T20:40:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Trenchtown</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Pressure Drop</string>
+		<key>startTime</key>
+		<date>2012-09-01T21:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-01T21:40:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Trenchtown</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Pressure Drop Soundsystem</string>
+		<key>startTime</key>
+		<date>2012-09-01T22:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-01T22:40:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Trenchtown</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Karma Parking</string>
+		<key>startTime</key>
+		<date>2012-09-01T23:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-01T23:40:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Trenchtown</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>DJ crazy-d , MC Jigsaw</string>
+		<key>startTime</key>
+		<date>2012-09-02T00:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-02T00:40:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Trenchtown</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Indica</string>
+		<key>startTime</key>
+		<date>2012-09-02T01:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-02T01:40:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Trenchtown</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>The Dirty Dubsters</string>
+		<key>startTime</key>
+		<date>2012-09-02T02:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-02T03:00:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Trenchtown</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Big Dish Go</string>
+		<key>startTime</key>
+		<date>2012-09-01T12:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-01T14:00:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Casa Bacardi</string>
+		<key>url</key>
+		<string>http://electricpicnic.ie/bigdishgo</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>The Drifter</string>
+		<key>startTime</key>
+		<date>2012-09-01T14:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-01T15:30:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Casa Bacardi</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Tu-Ki</string>
+		<key>startTime</key>
+		<date>2012-09-01T15:30:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-01T17:00:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Casa Bacardi</string>
+		<key>url</key>
+		<string>http://electricpicnic.ie/tuki1</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Metro Area (The Revenge)</string>
+		<key>startTime</key>
+		<date>2012-09-01T17:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-01T18:30:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Casa Bacardi</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Darshan Jesrani</string>
+		<key>startTime</key>
+		<date>2012-09-01T18:30:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-01T20:00:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Casa Bacardi</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Prins Thomas</string>
+		<key>startTime</key>
+		<date>2012-09-01T20:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-01T21:30:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Casa Bacardi</string>
+		<key>url</key>
+		<string>http://electricpicnic.ie/prinsthomas</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>A-Skillz</string>
+		<key>startTime</key>
+		<date>2012-09-01T21:30:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-01T23:00:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Casa Bacardi</string>
+		<key>url</key>
+		<string>http://electricpicnic.ie/askillz</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Maud In Cahoots</string>
+		<key>startTime</key>
+		<date>2012-09-01T12:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-01T12:30:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Body and Soul Main Stage</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Ocho</string>
+		<key>startTime</key>
+		<date>2012-09-01T13:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-01T13:45:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Body and Soul Main Stage</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Kodaline</string>
+		<key>startTime</key>
+		<date>2012-09-01T14:15:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-01T15:00:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Body and Soul Main Stage</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Young Wonder</string>
+		<key>startTime</key>
+		<date>2012-09-01T15:45:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-01T16:30:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Body and Soul Main Stage</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>The Spook of the Thirteenth Lock</string>
+		<key>startTime</key>
+		<date>2012-09-01T17:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-01T17:45:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Body and Soul Main Stage</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Laura Sheeran</string>
+		<key>startTime</key>
+		<date>2012-09-01T18:30:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-01T19:15:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Body and Soul Main Stage</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Lewis Floyd Henry</string>
+		<key>startTime</key>
+		<date>2012-09-01T20:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-01T20:45:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Body and Soul Main Stage</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Orchestra Of Spheres</string>
+		<key>startTime</key>
+		<date>2012-09-01T21:30:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-01T22:30:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Body and Soul Main Stage</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>RocketNumberNine</string>
+		<key>startTime</key>
+		<date>2012-09-01T23:15:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-02T00:15:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Body and Soul Main Stage</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Breton</string>
+		<key>startTime</key>
+		<date>2012-09-02T01:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-02T02:00:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Body and Soul Main Stage</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Jesse Boykins III</string>
+		<key>startTime</key>
+		<date>2012-09-02T02:30:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-02T03:30:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Body and Soul Main Stage</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Croupier</string>
+		<key>startTime</key>
+		<date>2012-09-01T13:30:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-01T14:10:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Body and Soul Earthship Stage</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Quack+Dirk Eco Fashion Show</string>
+		<key>startTime</key>
+		<date>2012-09-01T14:30:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-01T15:20:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Body and Soul Earthship Stage</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Woodstock Festivalandrsquo;s Michael Long interviewed by Dave Fanning</string>
+		<key>startTime</key>
+		<date>2012-09-01T15:45:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-01T16:45:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Body and Soul Earthship Stage</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Overhead, the Albatross</string>
+		<key>startTime</key>
+		<date>2012-09-01T17:15:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-01T17:45:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Body and Soul Earthship Stage</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>TBC</string>
+		<key>startTime</key>
+		<date>2012-09-01T18:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-01T19:00:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Body and Soul Earthship Stage</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Ruari</string>
+		<key>startTime</key>
+		<date>2012-09-01T19:30:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-01T20:40:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Body and Soul Earthship Stage</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>New Jackson</string>
+		<key>startTime</key>
+		<date>2012-09-01T21:15:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-01T22:05:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Body and Soul Earthship Stage</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Nightwave</string>
+		<key>startTime</key>
+		<date>2012-09-01T22:30:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-01T23:30:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Body and Soul Earthship Stage</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Romare</string>
+		<key>startTime</key>
+		<date>2012-09-02T00:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-02T01:20:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Body and Soul Earthship Stage</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Viperflo</string>
+		<key>startTime</key>
+		<date>2012-09-02T02:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-02T03:00:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Body and Soul Earthship Stage</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Roisin O</string>
+		<key>startTime</key>
+		<date>2012-09-01T14:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-01T14:40:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Body and Soul Bamboo Stage</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Altered Hours</string>
+		<key>startTime</key>
+		<date>2012-09-01T15:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-01T15:40:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Body and Soul Bamboo Stage</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Youth Mass</string>
+		<key>startTime</key>
+		<date>2012-09-01T16:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-01T16:50:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Body and Soul Bamboo Stage</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Tn Charm</string>
+		<key>startTime</key>
+		<date>2012-09-01T17:15:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-01T18:05:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Body and Soul Bamboo Stage</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Dott Band</string>
+		<key>startTime</key>
+		<date>2012-09-01T18:30:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-01T19:20:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Body and Soul Bamboo Stage</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Glimmerman</string>
+		<key>startTime</key>
+		<date>2012-09-01T19:45:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-01T20:35:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Body and Soul Bamboo Stage</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>No Spill Blood</string>
+		<key>startTime</key>
+		<date>2012-09-01T21:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-01T22:20:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Body and Soul Bamboo Stage</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Metaphi/Metske</string>
+		<key>startTime</key>
+		<date>2012-09-01T23:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-02T00:00:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Body and Soul Bamboo Stage</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Spam Chop</string>
+		<key>startTime</key>
+		<date>2012-09-02T00:30:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-02T01:30:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Body and Soul Bamboo Stage</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>New Act</string>
+		<key>startTime</key>
+		<date>2012-09-01T12:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-01T12:40:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Oxjam Stage</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>MCandrsquo;s Andrew Stanley and Damian Clarke</string>
+		<key>startTime</key>
+		<date>2012-09-01T13:30:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-01T13:45:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Comedy Tent</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Colm McDonnell</string>
+		<key>startTime</key>
+		<date>2012-09-01T13:45:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-01T14:05:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Comedy Tent</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Danny Dowling</string>
+		<key>startTime</key>
+		<date>2012-09-01T14:05:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-01T14:20:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Comedy Tent</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Tomie James</string>
+		<key>startTime</key>
+		<date>2012-09-01T14:25:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-01T14:40:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Comedy Tent</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Eric Lalor</string>
+		<key>startTime</key>
+		<date>2012-09-01T14:40:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-01T15:00:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Comedy Tent</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Steve Frost Impro Allstars</string>
+		<key>startTime</key>
+		<date>2012-09-01T15:05:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-01T15:45:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Comedy Tent</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Chris Kent</string>
+		<key>startTime</key>
+		<date>2012-09-01T15:50:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-01T16:10:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Comedy Tent</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Keith Farnan</string>
+		<key>startTime</key>
+		<date>2012-09-01T16:10:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-01T16:30:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Comedy Tent</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Johnny Graham</string>
+		<key>startTime</key>
+		<date>2012-09-01T16:40:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-01T16:55:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Comedy Tent</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>John Colleary</string>
+		<key>startTime</key>
+		<date>2012-09-01T16:55:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-01T17:20:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Comedy Tent</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Jarlath Regan</string>
+		<key>startTime</key>
+		<date>2012-09-01T17:25:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-01T17:50:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Comedy Tent</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Dead Cat Bounce</string>
+		<key>startTime</key>
+		<date>2012-09-01T17:55:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-01T18:25:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Comedy Tent</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Kevin McAleer</string>
+		<key>startTime</key>
+		<date>2012-09-01T18:30:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-01T18:55:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Comedy Tent</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Gearoid Farrelly</string>
+		<key>startTime</key>
+		<date>2012-09-01T18:55:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-01T19:20:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Comedy Tent</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>David McSavage</string>
+		<key>startTime</key>
+		<date>2012-09-01T19:20:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-01T19:45:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Comedy Tent</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Joe Rooney</string>
+		<key>startTime</key>
+		<date>2012-09-01T19:45:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-01T20:10:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Comedy Tent</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Patrick Kielty</string>
+		<key>startTime</key>
+		<date>2012-09-01T20:15:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-01T21:00:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Comedy Tent</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Lewis Floyd</string>
+		<key>startTime</key>
+		<date>2012-09-01T16:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-01T16:50:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Trailer Park</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Raglan Rodeo</string>
+		<key>startTime</key>
+		<date>2012-09-01T17:15:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-01T18:05:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Trailer Park</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>The Strypes</string>
+		<key>startTime</key>
+		<date>2012-09-01T18:30:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-01T19:10:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Trailer Park</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Louisiana 6</string>
+		<key>startTime</key>
+		<date>2012-09-01T19:30:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-01T20:30:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Trailer Park</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Prime Casuals</string>
+		<key>startTime</key>
+		<date>2012-09-01T21:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-01T22:00:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Trailer Park</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Come on Live Long</string>
+		<key>startTime</key>
+		<date>2012-09-01T22:30:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-01T23:20:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Trailer Park</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>This Side Up</string>
+		<key>startTime</key>
+		<date>2012-09-01T23:45:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-02T00:05:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Trailer Park</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Oddsocks Revival</string>
+		<key>startTime</key>
+		<date>2012-09-02T00:15:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-02T01:25:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Trailer Park</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>DJ Will Dempsey: Billy Bob Junior Junior</string>
+		<key>startTime</key>
+		<date>2012-09-02T02:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-02T03:00:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Trailer Park</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Yoga (Cultivate Tent)</string>
+		<key>startTime</key>
+		<date>2012-09-01T11:15:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-01T12:30:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Convergence Stage</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Live Music: Frank (Cultivate Tent)</string>
+		<key>startTime</key>
+		<date>2012-09-01T13:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-01T13:40:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Convergence Stage</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>ReThink Tank (Cultivate Tent): The Future of our Field Days / The Seed Bomb Laboratory (on the Green) / Pop Up Talks (World cafe)</string>
+		<key>startTime</key>
+		<date>2012-09-01T14:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-01T14:45:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Convergence Stage</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Live Music: Mossy Nolan (Cultivate Tent)</string>
+		<key>startTime</key>
+		<date>2012-09-01T15:10:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-01T15:45:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Convergence Stage</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Fergus Costellos Comic Monologues (Cultivate Tent)</string>
+		<key>startTime</key>
+		<date>2012-09-01T16:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-01T16:10:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Convergence Stage</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Local Breakthrough Ideas (Cultivate Tent)</string>
+		<key>startTime</key>
+		<date>2012-09-01T16:15:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-01T16:45:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Convergence Stage</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>ReThink Tank (on the Green) : Rethinking Where our Food Comes From - Live Music: Q aka Colm Querney (Cultivate Tent)</string>
+		<key>startTime</key>
+		<date>2012-09-01T17:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-01T18:00:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Convergence Stage</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Dancing Priest (DJ Set) (Cultivate Tent)</string>
+		<key>startTime</key>
+		<date>2012-09-01T18:30:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-01T19:30:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Convergence Stage</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>DJ Arman Giorgio (Cultivate Tent)</string>
+		<key>startTime</key>
+		<date>2012-09-01T20:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-01T20:40:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Convergence Stage</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>The Fireside Sessions (World cafe)</string>
+		<key>startTime</key>
+		<date>2012-09-01T21:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-01T21:20:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Convergence Stage</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>DJ Tim O Donovan of Phantom FM (Cultivate Tent)</string>
+		<key>startTime</key>
+		<date>2012-09-01T21:30:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-01T22:50:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Convergence Stage</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Global Green Golly Gosh Recycle Disco (Cultivate Tent)</string>
+		<key>startTime</key>
+		<date>2012-09-01T23:30:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-02T00:30:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Convergence Stage</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Dublin Gospel Choir</string>
+		<key>startTime</key>
+		<date>2012-09-02T13:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-02T14:00:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Main Stage</string>
+		<key>url</key>
+		<string>http://electricpicnic.ie/dublingospelchoir1</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Lee Scratch Perry and Max Romeo</string>
+		<key>startTime</key>
+		<date>2012-09-02T14:45:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-02T16:00:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Main Stage</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Michael Kiwanuka</string>
+		<key>startTime</key>
+		<date>2012-09-02T16:45:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-02T17:30:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Main Stage</string>
+		<key>url</key>
+		<string>http://electricpicnic.ie/michaelkiwanuka</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Bombay Bicycle Club</string>
+		<key>startTime</key>
+		<date>2012-09-02T18:15:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-02T19:15:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Main Stage</string>
+		<key>url</key>
+		<string>http://electricpicnic.ie/bombaybicycleclub</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Elbow</string>
+		<key>startTime</key>
+		<date>2012-09-02T20:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-02T21:30:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Main Stage</string>
+		<key>url</key>
+		<string>http://electricpicnic.ie/elbow</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>The Killers</string>
+		<key>startTime</key>
+		<date>2012-09-02T22:15:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-02T23:45:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Main Stage</string>
+		<key>url</key>
+		<string>http://electricpicnic.ie/thekillers</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>The Riptide Movement</string>
+		<key>startTime</key>
+		<date>2012-09-02T12:15:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-02T13:00:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Electric Arena</string>
+		<key>url</key>
+		<string>http://electricpicnic.ie/theriptidemovement</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Milagres</string>
+		<key>startTime</key>
+		<date>2012-09-02T13:15:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-02T13:45:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Electric Arena</string>
+		<key>url</key>
+		<string>http://electricpicnic.ie/milagres</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Ryan Sheridan</string>
+		<key>startTime</key>
+		<date>2012-09-02T14:15:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-02T15:00:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Electric Arena</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Lianne La Havas</string>
+		<key>startTime</key>
+		<date>2012-09-02T15:30:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-02T16:15:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Electric Arena</string>
+		<key>url</key>
+		<string>http://electricpicnic.ie/liannelahavas</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Mick Flannery</string>
+		<key>startTime</key>
+		<date>2012-09-02T17:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-02T17:45:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Electric Arena</string>
+		<key>url</key>
+		<string>http://electricpicnic.ie/mickflannery</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Ben Howard</string>
+		<key>startTime</key>
+		<date>2012-09-02T18:30:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-02T19:30:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Electric Arena</string>
+		<key>url</key>
+		<string>http://electricpicnic.ie/benhoward</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Dakota 66</string>
+		<key>startTime</key>
+		<date>2012-09-02T20:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-02T20:45:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Electric Arena</string>
+		<key>url</key>
+		<string>http://electricpicnic.ie/dakota661</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Bat For Lashes</string>
+		<key>startTime</key>
+		<date>2012-09-02T21:30:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-02T22:30:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Electric Arena</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Hot Chip</string>
+		<key>startTime</key>
+		<date>2012-09-02T23:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-03T00:00:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Electric Arena</string>
+		<key>url</key>
+		<string>http://electricpicnic.ie/hotchip</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Land Lovers</string>
+		<key>startTime</key>
+		<date>2012-09-02T12:30:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-02T13:00:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Crawdaddy Stage</string>
+		<key>url</key>
+		<string>http://electricpicnic.ie/landlovers</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Squarehead</string>
+		<key>startTime</key>
+		<date>2012-09-02T13:20:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-02T14:00:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Crawdaddy Stage</string>
+		<key>url</key>
+		<string>http://electricpicnic.ie/squarehead</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Jonathan Wilson</string>
+		<key>startTime</key>
+		<date>2012-09-02T14:30:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-02T15:15:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Crawdaddy Stage</string>
+		<key>url</key>
+		<string>http://electricpicnic.ie/jonathanwilson</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Of Monsters And Men</string>
+		<key>startTime</key>
+		<date>2012-09-02T16:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-02T16:45:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Crawdaddy Stage</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>The Fat Lady Sings</string>
+		<key>startTime</key>
+		<date>2012-09-02T17:15:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-02T18:15:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Crawdaddy Stage</string>
+		<key>url</key>
+		<string>http://electricpicnic.ie/thefatladysings</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>The Antlers</string>
+		<key>startTime</key>
+		<date>2012-09-02T18:45:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-02T19:30:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Crawdaddy Stage</string>
+		<key>url</key>
+		<string>http://electricpicnic.ie/theantlers</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Cathy Davey</string>
+		<key>startTime</key>
+		<date>2012-09-02T20:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-02T21:00:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Crawdaddy Stage</string>
+		<key>url</key>
+		<string>http://electricpicnic.ie/cathydavey</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Tindersticks</string>
+		<key>startTime</key>
+		<date>2012-09-02T21:30:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-02T22:15:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Crawdaddy Stage</string>
+		<key>url</key>
+		<string>http://electricpicnic.ie/tindersticks</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Glen Hansard</string>
+		<key>startTime</key>
+		<date>2012-09-02T23:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-03T00:00:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Crawdaddy Stage</string>
+		<key>url</key>
+		<string>http://electricpicnic.ie/glenhansard</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Cloud Castle Lake</string>
+		<key>startTime</key>
+		<date>2012-09-02T12:15:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-02T12:45:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Cosby Stage</string>
+		<key>url</key>
+		<string>http://electricpicnic.ie/cloudcastlelake</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Katie Kim</string>
+		<key>startTime</key>
+		<date>2012-09-02T13:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-02T13:30:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Cosby Stage</string>
+		<key>url</key>
+		<string>http://electricpicnic.ie/katiekim</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Kanyu Tree</string>
+		<key>startTime</key>
+		<date>2012-09-02T13:45:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-02T14:15:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Cosby Stage</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>The Staves</string>
+		<key>startTime</key>
+		<date>2012-09-02T14:30:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-02T15:00:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Cosby Stage</string>
+		<key>url</key>
+		<string>http://electricpicnic.ie/thestaves</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Rainy Boy Sleep</string>
+		<key>startTime</key>
+		<date>2012-09-02T15:30:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-02T16:15:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Cosby Stage</string>
+		<key>url</key>
+		<string>http://electricpicnic.ie/rainyboysleep</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Cashier No9</string>
+		<key>startTime</key>
+		<date>2012-09-02T16:45:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-02T17:30:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Cosby Stage</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Van Dyke Parks</string>
+		<key>startTime</key>
+		<date>2012-09-02T18:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-02T18:45:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Cosby Stage</string>
+		<key>url</key>
+		<string>http://electricpicnic.ie/vandykeparks</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Lanterns On The Lake</string>
+		<key>startTime</key>
+		<date>2012-09-02T19:15:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-02T20:00:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Cosby Stage</string>
+		<key>url</key>
+		<string>http://electricpicnic.ie/lanternsonthelake</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Perfume Genius</string>
+		<key>startTime</key>
+		<date>2012-09-02T20:30:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-02T21:15:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Cosby Stage</string>
+		<key>url</key>
+		<string>http://electricpicnic.ie/perfumegenius</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Fatuomata Diawara</string>
+		<key>startTime</key>
+		<date>2012-09-02T21:45:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-02T22:30:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Cosby Stage</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Staff Benda Bilili</string>
+		<key>startTime</key>
+		<date>2012-09-02T23:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-03T00:00:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Cosby Stage</string>
+		<key>url</key>
+		<string>http://electricpicnic.ie/staffbendabilili1</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Forrests</string>
+		<key>startTime</key>
+		<date>2012-09-02T12:30:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-02T13:15:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Little Big Tent</string>
+		<key>url</key>
+		<string>http://electricpicnic.ie/forrests</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Ships</string>
+		<key>startTime</key>
+		<date>2012-09-02T13:30:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-02T14:15:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Little Big Tent</string>
+		<key>url</key>
+		<string>http://electricpicnic.ie/ships</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Mmoths</string>
+		<key>startTime</key>
+		<date>2012-09-02T14:30:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-02T15:15:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Little Big Tent</string>
+		<key>url</key>
+		<string>http://electricpicnic.ie/mmoths</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Lil Dave</string>
+		<key>startTime</key>
+		<date>2012-09-02T15:30:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-02T16:15:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Little Big Tent</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>John Talabot</string>
+		<key>startTime</key>
+		<date>2012-09-02T16:15:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-02T17:15:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Little Big Tent</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Totally Enormous Extinct Dinosaurs</string>
+		<key>startTime</key>
+		<date>2012-09-02T17:45:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-02T18:45:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Little Big Tent</string>
+		<key>url</key>
+		<string>http://electricpicnic.ie/totallyenormousextinctdinosaurs</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Pat Mahoney</string>
+		<key>startTime</key>
+		<date>2012-09-02T19:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-02T20:00:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Little Big Tent</string>
+		<key>url</key>
+		<string>http://electricpicnic.ie/patmahoney</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Juan MacClean</string>
+		<key>startTime</key>
+		<date>2012-09-02T20:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-02T21:00:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Little Big Tent</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>James Murphy DJ Set</string>
+		<key>startTime</key>
+		<date>2012-09-02T21:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-02T22:45:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Little Big Tent</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>BassNectar</string>
+		<key>startTime</key>
+		<date>2012-09-02T23:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-03T00:00:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Little Big Tent</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Tom Whitrow and Nick Sergeants Gospel Love Brunch</string>
+		<key>startTime</key>
+		<date>2012-09-02T12:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-02T14:00:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Salty Dog</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>The Dead Zoo</string>
+		<key>startTime</key>
+		<date>2012-09-02T14:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-02T14:50:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Salty Dog</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Fox E and The Good Hands</string>
+		<key>startTime</key>
+		<date>2012-09-02T15:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-02T15:50:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Salty Dog</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Gypsy Rebel Rabble</string>
+		<key>startTime</key>
+		<date>2012-09-02T16:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-02T16:50:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Salty Dog</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Raglan</string>
+		<key>startTime</key>
+		<date>2012-09-02T17:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-02T17:50:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Salty Dog</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Dem Fools</string>
+		<key>startTime</key>
+		<date>2012-09-02T18:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-02T18:50:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Salty Dog</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Fred</string>
+		<key>startTime</key>
+		<date>2012-09-02T19:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-02T19:50:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Salty Dog</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Cracked Bucket Band and Blank Squares</string>
+		<key>startTime</key>
+		<date>2012-09-02T21:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-02T22:30:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Salty Dog</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>The Pete Pamf Sextette</string>
+		<key>startTime</key>
+		<date>2012-09-02T22:45:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-02T23:45:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Salty Dog</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Black Friday</string>
+		<key>startTime</key>
+		<date>2012-09-03T00:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-03T00:50:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Salty Dog</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Cujo Family</string>
+		<key>startTime</key>
+		<date>2012-09-03T01:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-03T01:50:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Salty Dog</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>The Mighty Stef</string>
+		<key>startTime</key>
+		<date>2012-09-03T02:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-03T03:00:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Salty Dog</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Conor L and Ro Flynn</string>
+		<key>startTime</key>
+		<date>2012-09-02T16:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-02T17:00:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Algorythm: The Forrest Stage</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Frankie G and Bingo</string>
+		<key>startTime</key>
+		<date>2012-09-02T17:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-02T18:00:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Algorythm: The Forrest Stage</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Tonie Walsh and Aoife Ni Canna</string>
+		<key>startTime</key>
+		<date>2012-09-02T18:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-02T19:00:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Algorythm: The Forrest Stage</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Tom Beary and Kormac</string>
+		<key>startTime</key>
+		<date>2012-09-02T19:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-02T20:00:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Algorythm: The Forrest Stage</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Chewy</string>
+		<key>startTime</key>
+		<date>2012-09-02T20:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-02T21:00:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Algorythm: The Forrest Stage</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Steve Flynn and Simon Resoul</string>
+		<key>startTime</key>
+		<date>2012-09-02T21:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-02T22:00:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Algorythm: The Forrest Stage</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Tr-One</string>
+		<key>startTime</key>
+		<date>2012-09-02T22:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-02T23:00:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Algorythm: The Forrest Stage</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Mike Black and Steve Egri</string>
+		<key>startTime</key>
+		<date>2012-09-02T23:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-03T00:00:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Algorythm: The Forrest Stage</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Bodytonic Sound System</string>
+		<key>startTime</key>
+		<date>2012-09-03T00:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-03T02:00:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Algorythm: The Forrest Stage</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Barry Redsetta</string>
+		<key>startTime</key>
+		<date>2012-09-03T02:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-03T03:00:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Algorythm: The Forrest Stage</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Nic James</string>
+		<key>startTime</key>
+		<date>2012-09-03T03:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-03T04:00:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Algorythm: The Forrest Stage</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Angels and Demons</string>
+		<key>startTime</key>
+		<date>2012-09-02T15:30:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-02T15:50:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Trenchtown</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Tadgh Byrne Of Junior Spesh</string>
+		<key>startTime</key>
+		<date>2012-09-02T16:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-02T16:40:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Trenchtown</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>The Reggulators</string>
+		<key>startTime</key>
+		<date>2012-09-02T17:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-02T17:40:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Trenchtown</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>DJ Rootsman Wurzel</string>
+		<key>startTime</key>
+		<date>2012-09-02T18:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-02T18:40:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Trenchtown</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>The Barley Mob</string>
+		<key>startTime</key>
+		<date>2012-09-02T19:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-02T19:40:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Trenchtown</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>DJ Bibi Ewa</string>
+		<key>startTime</key>
+		<date>2012-09-02T20:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-02T20:40:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Trenchtown</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Irie Ireland DJs</string>
+		<key>startTime</key>
+		<date>2012-09-02T21:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-02T21:40:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Trenchtown</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>DJ Ras Tinny</string>
+		<key>startTime</key>
+		<date>2012-09-02T22:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-02T22:40:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Trenchtown</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Skazz</string>
+		<key>startTime</key>
+		<date>2012-09-02T23:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-02T23:40:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Trenchtown</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Dj Andrew K</string>
+		<key>startTime</key>
+		<date>2012-09-03T00:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-03T00:40:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Trenchtown</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Mog-Y</string>
+		<key>startTime</key>
+		<date>2012-09-03T01:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-03T01:40:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Trenchtown</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Worries Outernational</string>
+		<key>startTime</key>
+		<date>2012-09-03T02:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-03T03:00:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Trenchtown</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Mother</string>
+		<key>startTime</key>
+		<date>2012-09-02T12:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-02T14:00:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Casa Bacardi</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>John Mahon</string>
+		<key>startTime</key>
+		<date>2012-09-02T14:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-02T15:30:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Casa Bacardi</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>DiscoTekken</string>
+		<key>startTime</key>
+		<date>2012-09-02T15:30:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-02T17:00:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Casa Bacardi</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Optimo</string>
+		<key>startTime</key>
+		<date>2012-09-02T17:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-02T19:30:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Casa Bacardi</string>
+		<key>url</key>
+		<string>http://electricpicnic.ie/optimo</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>The 2 Bears</string>
+		<key>startTime</key>
+		<date>2012-09-02T19:30:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-02T21:30:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Casa Bacardi</string>
+		<key>url</key>
+		<string>http://electricpicnic.ie/the2bears1</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Todd Terje</string>
+		<key>startTime</key>
+		<date>2012-09-02T21:30:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-02T23:00:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Casa Bacardi</string>
+		<key>url</key>
+		<string>http://electricpicnic.ie/toddterje</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>EleventyFour</string>
+		<key>startTime</key>
+		<date>2012-09-02T12:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-02T12:30:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Body and Soul Main Stage</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Band Of Clouds</string>
+		<key>startTime</key>
+		<date>2012-09-02T13:15:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-02T14:00:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Body and Soul Main Stage</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>John Hoban</string>
+		<key>startTime</key>
+		<date>2012-09-02T14:30:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-02T15:15:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Body and Soul Main Stage</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Cian Finn</string>
+		<key>startTime</key>
+		<date>2012-09-02T15:45:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-02T16:30:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Body and Soul Main Stage</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Seamus Fogarty</string>
+		<key>startTime</key>
+		<date>2012-09-02T17:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-02T17:45:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Body and Soul Main Stage</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>February and Mars</string>
+		<key>startTime</key>
+		<date>2012-09-02T18:30:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-02T19:15:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Body and Soul Main Stage</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>LAPD</string>
+		<key>startTime</key>
+		<date>2012-09-02T20:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-02T21:00:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Body and Soul Main Stage</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Paul Buchanan</string>
+		<key>startTime</key>
+		<date>2012-09-02T21:30:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-02T22:10:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Body and Soul Main Stage</string>
+		<key>url</key>
+		<string>http://electricpicnic.ie/paulbuchanan</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Dark Dark Dark</string>
+		<key>startTime</key>
+		<date>2012-09-02T22:40:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-02T23:30:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Body and Soul Main Stage</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Junior Boys</string>
+		<key>startTime</key>
+		<date>2012-09-03T00:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-03T01:00:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Body and Soul Main Stage</string>
+		<key>url</key>
+		<string>http://electricpicnic.ie/juniorboys</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>When Saints Go Machine</string>
+		<key>startTime</key>
+		<date>2012-09-03T01:30:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-03T02:30:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Body and Soul Main Stage</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Mmoths</string>
+		<key>startTime</key>
+		<date>2012-09-03T03:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-03T04:00:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Body and Soul Main Stage</string>
+		<key>url</key>
+		<string>http://electricpicnic.ie/mmoths</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>The Bambir</string>
+		<key>startTime</key>
+		<date>2012-09-02T12:15:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-02T13:00:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Body and Soul Earthship Stage</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Recycle Upcycle</string>
+		<key>startTime</key>
+		<date>2012-09-02T13:20:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-02T15:05:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Body and Soul Earthship Stage</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Ambience Affair</string>
+		<key>startTime</key>
+		<date>2012-09-02T16:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-02T16:40:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Body and Soul Earthship Stage</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Panel discussion andndash; andldquo;inspriring humanity to protect our planetandrdquo;</string>
+		<key>startTime</key>
+		<date>2012-09-02T17:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-02T17:50:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Body and Soul Earthship Stage</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Ham Sandwich</string>
+		<key>startTime</key>
+		<date>2012-09-02T18:15:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-02T18:55:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Body and Soul Earthship Stage</string>
+		<key>url</key>
+		<string>http://electricpicnic.ie/hamsandwich</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Morbid Can Morbid</string>
+		<key>startTime</key>
+		<date>2012-09-02T19:15:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-02T19:55:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Body and Soul Earthship Stage</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Frank B</string>
+		<key>startTime</key>
+		<date>2012-09-02T20:15:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-02T21:25:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Body and Soul Earthship Stage</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Nanu Nanu</string>
+		<key>startTime</key>
+		<date>2012-09-02T22:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-02T22:40:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Body and Soul Earthship Stage</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>SertOne</string>
+		<key>startTime</key>
+		<date>2012-09-02T23:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-02T23:40:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Body and Soul Earthship Stage</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Mother DJs</string>
+		<key>startTime</key>
+		<date>2012-09-03T00:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-03T01:20:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Body and Soul Earthship Stage</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Zemi17</string>
+		<key>startTime</key>
+		<date>2012-09-03T02:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-03T03:00:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Body and Soul Earthship Stage</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Little Oak</string>
+		<key>startTime</key>
+		<date>2012-09-02T14:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-02T14:40:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Body and Soul Bamboo Stage</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>The Rant</string>
+		<key>startTime</key>
+		<date>2012-09-02T15:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-02T15:40:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Body and Soul Bamboo Stage</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>N.C. Lawlor</string>
+		<key>startTime</key>
+		<date>2012-09-02T16:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-02T16:40:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Body and Soul Bamboo Stage</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Tradiohead</string>
+		<key>startTime</key>
+		<date>2012-09-02T17:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-02T17:35:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Body and Soul Bamboo Stage</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Cian Finn</string>
+		<key>startTime</key>
+		<date>2012-09-02T17:50:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-02T18:35:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Body and Soul Bamboo Stage</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Tujacques</string>
+		<key>startTime</key>
+		<date>2012-09-02T19:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-02T20:00:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Body and Soul Bamboo Stage</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Replete</string>
+		<key>startTime</key>
+		<date>2012-09-02T20:30:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-02T21:30:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Body and Soul Bamboo Stage</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Sunken Foal</string>
+		<key>startTime</key>
+		<date>2012-09-02T22:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-02T23:00:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Body and Soul Bamboo Stage</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Space Dimension Controller</string>
+		<key>startTime</key>
+		<date>2012-09-02T23:30:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-03T00:30:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Body and Soul Bamboo Stage</string>
+		<key>url</key>
+		<string>http://electricpicnic.ie/spacedimensioncontroller</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>New Act</string>
+		<key>startTime</key>
+		<date>2012-09-02T12:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-02T12:40:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Oxjam Stage</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>MCandrsquo;s Andrew Stanley and Damian Clarke</string>
+		<key>startTime</key>
+		<date>2012-09-02T13:30:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-02T13:45:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Comedy Tent</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Fred Cooke</string>
+		<key>startTime</key>
+		<date>2012-09-02T13:45:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-02T14:05:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Comedy Tent</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Ursula Burns</string>
+		<key>startTime</key>
+		<date>2012-09-02T14:05:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-02T14:15:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Comedy Tent</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Rory O Hanlon</string>
+		<key>startTime</key>
+		<date>2012-09-02T14:20:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-02T14:40:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Comedy Tent</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Foil Arms and Hog</string>
+		<key>startTime</key>
+		<date>2012-09-02T14:40:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-02T15:00:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Comedy Tent</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Steve Frost Improv Allstars</string>
+		<key>startTime</key>
+		<date>2012-09-02T15:05:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-02T15:45:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Comedy Tent</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>John Lynn</string>
+		<key>startTime</key>
+		<date>2012-09-02T15:55:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-02T16:15:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Comedy Tent</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Totally Wired</string>
+		<key>startTime</key>
+		<date>2012-09-02T16:15:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-02T16:30:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Comedy Tent</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Colm O Regan</string>
+		<key>startTime</key>
+		<date>2012-09-02T16:30:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-02T16:55:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Comedy Tent</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Abandoman</string>
+		<key>startTime</key>
+		<date>2012-09-02T17:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-02T17:30:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Comedy Tent</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Barry Murphy</string>
+		<key>startTime</key>
+		<date>2012-09-02T17:35:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-02T17:55:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Comedy Tent</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Bernard O Shea</string>
+		<key>startTime</key>
+		<date>2012-09-02T17:55:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-02T18:20:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Comedy Tent</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Karl Spain</string>
+		<key>startTime</key>
+		<date>2012-09-02T18:20:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-02T18:40:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Comedy Tent</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Patrick McDonnell</string>
+		<key>startTime</key>
+		<date>2012-09-02T18:45:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-02T19:10:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Comedy Tent</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>The Nualas</string>
+		<key>startTime</key>
+		<date>2012-09-02T19:10:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-02T19:40:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Comedy Tent</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Glen Wool</string>
+		<key>startTime</key>
+		<date>2012-09-02T19:40:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-02T20:10:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Comedy Tent</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>David O Doherty</string>
+		<key>startTime</key>
+		<date>2012-09-02T20:15:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-02T21:00:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Comedy Tent</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>The Strypes</string>
+		<key>startTime</key>
+		<date>2012-09-02T17:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-02T17:40:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Trailer Park</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Elevens</string>
+		<key>startTime</key>
+		<date>2012-09-02T18:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-02T19:00:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Trailer Park</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>The Higglers</string>
+		<key>startTime</key>
+		<date>2012-09-02T19:30:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-02T20:30:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Trailer Park</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>John Blek and the Rats</string>
+		<key>startTime</key>
+		<date>2012-09-02T21:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-02T21:40:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Trailer Park</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Jethro Pickett</string>
+		<key>startTime</key>
+		<date>2012-09-02T22:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-02T22:40:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Trailer Park</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Preachers Son</string>
+		<key>startTime</key>
+		<date>2012-09-02T23:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-02T23:40:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Trailer Park</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Trap Door</string>
+		<key>startTime</key>
+		<date>2012-09-03T00:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-03T00:30:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Trailer Park</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>David Kitt on the decks: Transamerican Express</string>
+		<key>startTime</key>
+		<date>2012-09-03T00:45:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-03T01:45:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Trailer Park</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Breakfast Yoga (Cultivate Tent)</string>
+		<key>startTime</key>
+		<date>2012-09-02T11:30:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-02T12:30:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Convergence Stage</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Live Music: Seamus O Muineachain (Cultivate Tent) / Pop Up Talks (World cafe)</string>
+		<key>startTime</key>
+		<date>2012-09-02T13:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-02T13:40:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Convergence Stage</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Live Music: Carol Anne McGowan (Cultivate Tent) / The Peoples Picnic (on the green)</string>
+		<key>startTime</key>
+		<date>2012-09-02T14:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-02T14:40:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Convergence Stage</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Live Music: Wicker Bones (Cultivate Tent) / Pop Up Talks (World cafe)</string>
+		<key>startTime</key>
+		<date>2012-09-02T15:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-02T15:40:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Convergence Stage</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Breakthrough Ideas For the Future We Want (Cultivate Tent)</string>
+		<key>startTime</key>
+		<date>2012-09-02T16:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-02T16:40:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Convergence Stage</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Live Music: Decentfolk (Cultivate Tent)</string>
+		<key>startTime</key>
+		<date>2012-09-02T17:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-02T17:40:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Convergence Stage</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Live Music: Benny Smiles (Cultivate Tent)</string>
+		<key>startTime</key>
+		<date>2012-09-02T18:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-02T19:40:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Convergence Stage</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Comedy: Abie Philbin Bowman (TBC) (Cultivate Tent)</string>
+		<key>startTime</key>
+		<date>2012-09-02T20:30:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-02T20:50:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Convergence Stage</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>The Fireside Sessions (World cafe)</string>
+		<key>startTime</key>
+		<date>2012-09-02T21:00:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-02T21:20:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Convergence Stage</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Boudior Session DJs (Cultivate Tent)</string>
+		<key>startTime</key>
+		<date>2012-09-02T21:30:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-02T22:50:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Convergence Stage</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+	<dict>
+		<key>band</key>
+		<string>Live Music: Synergy (Cultivate Tent)</string>
+		<key>startTime</key>
+		<date>2012-09-02T23:30:00Z</date>
+		<key>endTime</key>
+		<date>2012-09-03T00:30:00Z</date>
+		<key>isFavourite</key>
+		<integer>0</integer>
+		<key>stage</key>
+		<string>Convergence Stage</string>
+		<key>url</key>
+		<string>No URL</string>
+	</dict>
+</array>
+</plist>

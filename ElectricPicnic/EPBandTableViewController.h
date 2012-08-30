@@ -1,5 +1,5 @@
 //
-//  EPAppDelegate.h
+//  EPBandTableViewController.h
 //  ElectricPicnic
 //
 //  Created by Colin McGovern on 28/08/2012.
@@ -9,11 +9,13 @@
 #import <UIKit/UIKit.h>
 #import "EPAllEvents.h"
 
-@interface EPAppDelegate : UIResponder <UIApplicationDelegate> {
+@interface EPBandTableViewController : UITableViewController {
     EPAllEvents *_allEvents;
+    
+@private
+    NSArray *dataSource;
 }
 
-@property (strong, nonatomic) UIWindow *window;
-@property (strong, nonatomic) EPAllEvents *allEvents;
+@property (nonatomic, readonly) EPAllEvents *allEvents;
 
 @end

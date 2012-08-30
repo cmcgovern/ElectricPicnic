@@ -15,17 +15,20 @@
 		C64A6F1D15ED6D1500459BB5 /* EPAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = C64A6F1C15ED6D1500459BB5 /* EPAppDelegate.m */; };
 		C64A6F2015ED6D1500459BB5 /* MainStoryboard_iPhone.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C64A6F1E15ED6D1500459BB5 /* MainStoryboard_iPhone.storyboard */; };
 		C64A6F2315ED6D1500459BB5 /* MainStoryboard_iPad.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C64A6F2115ED6D1500459BB5 /* MainStoryboard_iPad.storyboard */; };
-		C64A6F2615ED6D1500459BB5 /* EPFirstViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C64A6F2515ED6D1500459BB5 /* EPFirstViewController.m */; };
-		C64A6F2815ED6D1500459BB5 /* first.png in Resources */ = {isa = PBXBuildFile; fileRef = C64A6F2715ED6D1500459BB5 /* first.png */; };
-		C64A6F2A15ED6D1500459BB5 /* first@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = C64A6F2915ED6D1500459BB5 /* first@2x.png */; };
-		C64A6F2D15ED6D1600459BB5 /* EPSecondViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C64A6F2C15ED6D1600459BB5 /* EPSecondViewController.m */; };
-		C64A6F2F15ED6D1600459BB5 /* second.png in Resources */ = {isa = PBXBuildFile; fileRef = C64A6F2E15ED6D1600459BB5 /* second.png */; };
-		C64A6F3115ED6D1600459BB5 /* second@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = C64A6F3015ED6D1600459BB5 /* second@2x.png */; };
 		C64A6F3915ED6D1600459BB5 /* SenTestingKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C64A6F3815ED6D1600459BB5 /* SenTestingKit.framework */; };
 		C64A6F3A15ED6D1600459BB5 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C64A6F0C15ED6D1500459BB5 /* UIKit.framework */; };
 		C64A6F3B15ED6D1600459BB5 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C64A6F0E15ED6D1500459BB5 /* Foundation.framework */; };
 		C64A6F4315ED6D1600459BB5 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = C64A6F4115ED6D1600459BB5 /* InfoPlist.strings */; };
 		C64A6F4615ED6D1600459BB5 /* ElectricPicnicTests.m in Sources */ = {isa = PBXBuildFile; fileRef = C64A6F4515ED6D1600459BB5 /* ElectricPicnicTests.m */; };
+		C64A6F5115ED71D600459BB5 /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = C64A6F4F15ED6F3300459BB5 /* Default.png */; };
+		C64A6F5415ED724600459BB5 /* EPBandTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C64A6F5315ED724600459BB5 /* EPBandTableViewController.m */; };
+		C64A6F5715ED726000459BB5 /* EPStageTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C64A6F5615ED726000459BB5 /* EPStageTableViewController.m */; };
+		C64A6F5A15ED727000459BB5 /* EPFavouritesViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C64A6F5915ED727000459BB5 /* EPFavouritesViewController.m */; };
+		C64A6F6015ED7F2B00459BB5 /* EPAllEvents.m in Sources */ = {isa = PBXBuildFile; fileRef = C64A6F5F15ED7F2B00459BB5 /* EPAllEvents.m */; };
+		C64A6F6315EDFEA500459BB5 /* EPNowPlayingTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C64A6F6215EDFEA500459BB5 /* EPNowPlayingTableViewController.m */; };
+		C64A6F6615EE17AE00459BB5 /* EPBandDetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C64A6F6515EE17AE00459BB5 /* EPBandDetailViewController.m */; };
+		C6A109C815EED18B0042417D /* EPStageViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C6A109C715EED18B0042417D /* EPStageViewController.m */; };
+		C6A109DA15EF59090042417D /* events.plist in Resources */ = {isa = PBXBuildFile; fileRef = C6A109D915EF59090042417D /* events.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,20 +54,28 @@
 		C64A6F1C15ED6D1500459BB5 /* EPAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = EPAppDelegate.m; sourceTree = "<group>"; };
 		C64A6F1F15ED6D1500459BB5 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard_iPhone.storyboard; sourceTree = "<group>"; };
 		C64A6F2215ED6D1500459BB5 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard_iPad.storyboard; sourceTree = "<group>"; };
-		C64A6F2415ED6D1500459BB5 /* EPFirstViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = EPFirstViewController.h; sourceTree = "<group>"; };
-		C64A6F2515ED6D1500459BB5 /* EPFirstViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = EPFirstViewController.m; sourceTree = "<group>"; };
-		C64A6F2715ED6D1500459BB5 /* first.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = first.png; sourceTree = "<group>"; };
-		C64A6F2915ED6D1500459BB5 /* first@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "first@2x.png"; sourceTree = "<group>"; };
-		C64A6F2B15ED6D1500459BB5 /* EPSecondViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = EPSecondViewController.h; sourceTree = "<group>"; };
-		C64A6F2C15ED6D1600459BB5 /* EPSecondViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = EPSecondViewController.m; sourceTree = "<group>"; };
-		C64A6F2E15ED6D1600459BB5 /* second.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = second.png; sourceTree = "<group>"; };
-		C64A6F3015ED6D1600459BB5 /* second@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "second@2x.png"; sourceTree = "<group>"; };
 		C64A6F3715ED6D1600459BB5 /* ElectricPicnicTests.octest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ElectricPicnicTests.octest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C64A6F3815ED6D1600459BB5 /* SenTestingKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SenTestingKit.framework; path = Library/Frameworks/SenTestingKit.framework; sourceTree = DEVELOPER_DIR; };
 		C64A6F4015ED6D1600459BB5 /* ElectricPicnicTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "ElectricPicnicTests-Info.plist"; sourceTree = "<group>"; };
 		C64A6F4215ED6D1600459BB5 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		C64A6F4415ED6D1600459BB5 /* ElectricPicnicTests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ElectricPicnicTests.h; sourceTree = "<group>"; };
 		C64A6F4515ED6D1600459BB5 /* ElectricPicnicTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ElectricPicnicTests.m; sourceTree = "<group>"; };
+		C64A6F4F15ED6F3300459BB5 /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
+		C64A6F5215ED724600459BB5 /* EPBandTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EPBandTableViewController.h; sourceTree = "<group>"; };
+		C64A6F5315ED724600459BB5 /* EPBandTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EPBandTableViewController.m; sourceTree = "<group>"; };
+		C64A6F5515ED726000459BB5 /* EPStageTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EPStageTableViewController.h; sourceTree = "<group>"; };
+		C64A6F5615ED726000459BB5 /* EPStageTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EPStageTableViewController.m; sourceTree = "<group>"; };
+		C64A6F5815ED727000459BB5 /* EPFavouritesViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EPFavouritesViewController.h; sourceTree = "<group>"; };
+		C64A6F5915ED727000459BB5 /* EPFavouritesViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EPFavouritesViewController.m; sourceTree = "<group>"; };
+		C64A6F5E15ED7F2B00459BB5 /* EPAllEvents.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EPAllEvents.h; sourceTree = "<group>"; };
+		C64A6F5F15ED7F2B00459BB5 /* EPAllEvents.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EPAllEvents.m; sourceTree = "<group>"; };
+		C64A6F6115EDFEA500459BB5 /* EPNowPlayingTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EPNowPlayingTableViewController.h; sourceTree = "<group>"; };
+		C64A6F6215EDFEA500459BB5 /* EPNowPlayingTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EPNowPlayingTableViewController.m; sourceTree = "<group>"; };
+		C64A6F6415EE17AE00459BB5 /* EPBandDetailViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EPBandDetailViewController.h; sourceTree = "<group>"; };
+		C64A6F6515EE17AE00459BB5 /* EPBandDetailViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EPBandDetailViewController.m; sourceTree = "<group>"; };
+		C6A109C615EED18B0042417D /* EPStageViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EPStageViewController.h; sourceTree = "<group>"; };
+		C6A109C715EED18B0042417D /* EPStageViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EPStageViewController.m; sourceTree = "<group>"; };
+		C6A109D915EF59090042417D /* events.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = events.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -94,6 +105,7 @@
 		C64A6EFD15ED6D1500459BB5 = {
 			isa = PBXGroup;
 			children = (
+				C64A6F4F15ED6F3300459BB5 /* Default.png */,
 				C64A6F1215ED6D1500459BB5 /* ElectricPicnic */,
 				C64A6F3E15ED6D1600459BB5 /* ElectricPicnicTests */,
 				C64A6F0B15ED6D1500459BB5 /* Frameworks */,
@@ -124,18 +136,12 @@
 		C64A6F1215ED6D1500459BB5 /* ElectricPicnic */ = {
 			isa = PBXGroup;
 			children = (
-				C64A6F1B15ED6D1500459BB5 /* EPAppDelegate.h */,
-				C64A6F1C15ED6D1500459BB5 /* EPAppDelegate.m */,
+				C64A6F6A15EE17FC00459BB5 /* AppDelegate */,
+				C64A6F6915EE17E500459BB5 /* Data Classes */,
+				C64A6F6815EE17CF00459BB5 /* View Controllers */,
+				C64A6F6715EE17B500459BB5 /* Table View Controllers */,
 				C64A6F1E15ED6D1500459BB5 /* MainStoryboard_iPhone.storyboard */,
 				C64A6F2115ED6D1500459BB5 /* MainStoryboard_iPad.storyboard */,
-				C64A6F2415ED6D1500459BB5 /* EPFirstViewController.h */,
-				C64A6F2515ED6D1500459BB5 /* EPFirstViewController.m */,
-				C64A6F2715ED6D1500459BB5 /* first.png */,
-				C64A6F2915ED6D1500459BB5 /* first@2x.png */,
-				C64A6F2B15ED6D1500459BB5 /* EPSecondViewController.h */,
-				C64A6F2C15ED6D1600459BB5 /* EPSecondViewController.m */,
-				C64A6F2E15ED6D1600459BB5 /* second.png */,
-				C64A6F3015ED6D1600459BB5 /* second@2x.png */,
 				C64A6F1315ED6D1500459BB5 /* Supporting Files */,
 			);
 			path = ElectricPicnic;
@@ -144,6 +150,7 @@
 		C64A6F1315ED6D1500459BB5 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				C6A109D915EF59090042417D /* events.plist */,
 				C64A6F1415ED6D1500459BB5 /* ElectricPicnic-Info.plist */,
 				C64A6F1515ED6D1500459BB5 /* InfoPlist.strings */,
 				C64A6F1815ED6D1500459BB5 /* main.m */,
@@ -169,6 +176,50 @@
 				C64A6F4115ED6D1600459BB5 /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		C64A6F6715EE17B500459BB5 /* Table View Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				C64A6F6115EDFEA500459BB5 /* EPNowPlayingTableViewController.h */,
+				C64A6F6215EDFEA500459BB5 /* EPNowPlayingTableViewController.m */,
+				C64A6F5215ED724600459BB5 /* EPBandTableViewController.h */,
+				C64A6F5315ED724600459BB5 /* EPBandTableViewController.m */,
+				C64A6F5515ED726000459BB5 /* EPStageTableViewController.h */,
+				C64A6F5615ED726000459BB5 /* EPStageTableViewController.m */,
+				C64A6F5815ED727000459BB5 /* EPFavouritesViewController.h */,
+				C64A6F5915ED727000459BB5 /* EPFavouritesViewController.m */,
+				C6A109C615EED18B0042417D /* EPStageViewController.h */,
+				C6A109C715EED18B0042417D /* EPStageViewController.m */,
+			);
+			name = "Table View Controllers";
+			sourceTree = "<group>";
+		};
+		C64A6F6815EE17CF00459BB5 /* View Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				C64A6F6415EE17AE00459BB5 /* EPBandDetailViewController.h */,
+				C64A6F6515EE17AE00459BB5 /* EPBandDetailViewController.m */,
+			);
+			name = "View Controllers";
+			sourceTree = "<group>";
+		};
+		C64A6F6915EE17E500459BB5 /* Data Classes */ = {
+			isa = PBXGroup;
+			children = (
+				C64A6F5E15ED7F2B00459BB5 /* EPAllEvents.h */,
+				C64A6F5F15ED7F2B00459BB5 /* EPAllEvents.m */,
+			);
+			name = "Data Classes";
+			sourceTree = "<group>";
+		};
+		C64A6F6A15EE17FC00459BB5 /* AppDelegate */ = {
+			isa = PBXGroup;
+			children = (
+				C64A6F1B15ED6D1500459BB5 /* EPAppDelegate.h */,
+				C64A6F1C15ED6D1500459BB5 /* EPAppDelegate.m */,
+			);
+			name = AppDelegate;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -246,10 +297,8 @@
 				C64A6F1715ED6D1500459BB5 /* InfoPlist.strings in Resources */,
 				C64A6F2015ED6D1500459BB5 /* MainStoryboard_iPhone.storyboard in Resources */,
 				C64A6F2315ED6D1500459BB5 /* MainStoryboard_iPad.storyboard in Resources */,
-				C64A6F2815ED6D1500459BB5 /* first.png in Resources */,
-				C64A6F2A15ED6D1500459BB5 /* first@2x.png in Resources */,
-				C64A6F2F15ED6D1600459BB5 /* second.png in Resources */,
-				C64A6F3115ED6D1600459BB5 /* second@2x.png in Resources */,
+				C64A6F5115ED71D600459BB5 /* Default.png in Resources */,
+				C6A109DA15EF59090042417D /* events.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -286,8 +335,13 @@
 			files = (
 				C64A6F1915ED6D1500459BB5 /* main.m in Sources */,
 				C64A6F1D15ED6D1500459BB5 /* EPAppDelegate.m in Sources */,
-				C64A6F2615ED6D1500459BB5 /* EPFirstViewController.m in Sources */,
-				C64A6F2D15ED6D1600459BB5 /* EPSecondViewController.m in Sources */,
+				C64A6F5415ED724600459BB5 /* EPBandTableViewController.m in Sources */,
+				C64A6F5715ED726000459BB5 /* EPStageTableViewController.m in Sources */,
+				C64A6F5A15ED727000459BB5 /* EPFavouritesViewController.m in Sources */,
+				C64A6F6015ED7F2B00459BB5 /* EPAllEvents.m in Sources */,
+				C64A6F6315EDFEA500459BB5 /* EPNowPlayingTableViewController.m in Sources */,
+				C64A6F6615EE17AE00459BB5 /* EPBandDetailViewController.m in Sources */,
+				C6A109C815EED18B0042417D /* EPStageViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -471,6 +525,7 @@
 				C64A6F4B15ED6D1600459BB5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		C64A6F4C15ED6D1600459BB5 /* Build configuration list for PBXNativeTarget "ElectricPicnicTests" */ = {
 			isa = XCConfigurationList;
@@ -479,6 +534,7 @@
 				C64A6F4E15ED6D1600459BB5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
