@@ -83,8 +83,9 @@
     NSDateFormatter *_timeOnlyFormatter = [[NSDateFormatter alloc] init];
     [_timeOnlyFormatter setDateFormat:@"H:mm"];
     
-    NSString *timeSlot = [NSString stringWithFormat:@"%@ - %@", [_prettyPrintedDateFormatter stringFromDate:(NSDate *)[event objectForKey:@"startTime"]],
-                                                                [_timeOnlyFormatter stringFromDate:(NSDate *)[event objectForKey:@"endTime"]]];
+    NSString *timeSlot = [NSString stringWithFormat:@"%@ - %@",
+                          [_prettyPrintedDateFormatter stringFromDate:[NSDate dateWithTimeInterval:-3600 sinceDate:(NSDate *)[event objectForKey:@"startTime"]]],
+                          [_timeOnlyFormatter stringFromDate:[NSDate dateWithTimeInterval:-3600 sinceDate:(NSDate *)[event objectForKey:@"endTime"]]]];
 
     // Configure the cell...
     cell.textLabel.text = (NSString *)[event objectForKey:@"band"];

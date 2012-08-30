@@ -55,8 +55,10 @@
         [self.urlButton setHidden:NO];
     }
     
-    self.startTimeLabel.text = [NSString stringWithFormat:@"Start: %@", [_timeOnlyFormatter stringFromDate:(NSDate *)[self.event objectForKey:@"startTime"]]];
-    self.endTimeLabel.text = [NSString stringWithFormat:@"End: %@", [_timeOnlyFormatter stringFromDate:(NSDate *)[self.event objectForKey:@"endTime"]]];
+    self.startTimeLabel.text = [NSString stringWithFormat:@"Start: %@",
+                                [_timeOnlyFormatter stringFromDate:(NSDate *)[NSDate dateWithTimeInterval:-3600 sinceDate:[self.event objectForKey:@"startTime"]]]];
+    self.endTimeLabel.text = [NSString stringWithFormat:@"End: %@",
+                              [_timeOnlyFormatter stringFromDate:[NSDate dateWithTimeInterval:-3600 sinceDate:(NSDate *)[self.event objectForKey:@"endTime"]]]];
     self.venueLabel.text = [self.event objectForKey:@"stage"];
     self.dayLabel.text = [_dayOnlyFormatter stringFromDate:(NSDate *)[self.event objectForKey:@"startTime"]];
     [self.favouriteButton setTitle:([(NSNumber *)[self.event objectForKey:@"isFavourite"] isEqualToNumber:[NSNumber numberWithInt:1]]) ? @"Unfavourite" : @"Favourite" forState:UIControlStateNormal];
