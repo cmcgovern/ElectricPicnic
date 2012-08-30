@@ -98,7 +98,7 @@
     if ([self favouritesClashWithEvent:event]) {
         cell.textLabel.textColor = [UIColor grayColor];
     } else {
-        cell.textLabel.backgroundColor = [UIColor whiteColor];
+        cell.textLabel.textColor = [UIColor blackColor];
     }
     
     return cell;
@@ -130,15 +130,13 @@
 }
 
 - (BOOL)event:(NSDictionary *)firstEvent clashesWith:(NSDictionary *)secondEvent {
-    NSDate *firstStartTime = [firstEvent objectForKey:@"startTime"];
-    NSDate *secondStartTime = [secondEvent objectForKey:@"startTime"];
+    NSDate *firstStartTime = [NSDate dateWithTimeInterval:1 sinceDate:[firstEvent objectForKey:@"startTime"]];
+    NSDate *secondStartTime = [NSDate dateWithTimeInterval:1 sinceDate:[secondEvent objectForKey:@"startTime"]];
     NSDate *firstEndTime = [firstEvent objectForKey:@"endTime"];
     NSDate *secondEndTime = [secondEvent objectForKey:@"endTime"];
     
-    return ((([self date:secondStartTime isEarlierThanDate:firstStartTime]) && ([self date:firstStartTime isEarlierThanDate:secondEndTime])) ||
-            (([self date:firstStartTime isEarlierThanDate:secondStartTime]) && ([self date:secondStartTime isEarlierThanDate:firstEndTime])) ||
-            ([firstStartTime timeIntervalSinceDate:secondStartTime] == 0) || ([firstEndTime timeIntervalSinceDate:secondEndTime] == 0));
-    
+    return !(([self date:firstEndTime isEarlierThanDate:secondStartTime]) ||
+             ([self date:secondEndTime isEarlierThanDate:firstStartTime]));
 }
 
 #pragma mark - Accessors

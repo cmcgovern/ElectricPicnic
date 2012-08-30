@@ -29,6 +29,7 @@
 		C64A6F6615EE17AE00459BB5 /* EPBandDetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C64A6F6515EE17AE00459BB5 /* EPBandDetailViewController.m */; };
 		C6A109C815EED18B0042417D /* EPStageViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C6A109C715EED18B0042417D /* EPStageViewController.m */; };
 		C6A109DA15EF59090042417D /* events.plist in Resources */ = {isa = PBXBuildFile; fileRef = C6A109D915EF59090042417D /* events.plist */; };
+		C6A109DE15EF9BFE0042417D /* Entitlements.plist in Resources */ = {isa = PBXBuildFile; fileRef = C6A109DD15EF9BFE0042417D /* Entitlements.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -76,6 +77,7 @@
 		C6A109C615EED18B0042417D /* EPStageViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EPStageViewController.h; sourceTree = "<group>"; };
 		C6A109C715EED18B0042417D /* EPStageViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EPStageViewController.m; sourceTree = "<group>"; };
 		C6A109D915EF59090042417D /* events.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = events.plist; sourceTree = "<group>"; };
+		C6A109DD15EF9BFE0042417D /* Entitlements.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Entitlements.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -136,6 +138,7 @@
 		C64A6F1215ED6D1500459BB5 /* ElectricPicnic */ = {
 			isa = PBXGroup;
 			children = (
+				C6A109DD15EF9BFE0042417D /* Entitlements.plist */,
 				C64A6F6A15EE17FC00459BB5 /* AppDelegate */,
 				C64A6F6915EE17E500459BB5 /* Data Classes */,
 				C64A6F6815EE17CF00459BB5 /* View Controllers */,
@@ -299,6 +302,7 @@
 				C64A6F2315ED6D1500459BB5 /* MainStoryboard_iPad.storyboard in Resources */,
 				C64A6F5115ED71D600459BB5 /* Default.png in Resources */,
 				C6A109DA15EF59090042417D /* events.plist in Resources */,
+				C6A109DE15EF9BFE0042417D /* Entitlements.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -453,10 +457,15 @@
 		C64A6F4A15ED6D1600459BB5 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CODE_SIGN_IDENTITY = "iPhone Developer: Colin McGovern (77SDUDTT22)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Colin McGovern (77SDUDTT22)";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "ElectricPicnic/ElectricPicnic-Prefix.pch";
 				INFOPLIST_FILE = "ElectricPicnic/ElectricPicnic-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "F40C1092-A336-40AE-9DD0-9FAC1AFE9AC0";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "F40C1092-A336-40AE-9DD0-9FAC1AFE9AC0";
+				TARGETED_DEVICE_FAMILY = 1;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -464,10 +473,15 @@
 		C64A6F4B15ED6D1600459BB5 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CODE_SIGN_IDENTITY = "iPhone Distribution: Colin McGovern";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Colin McGovern";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "ElectricPicnic/ElectricPicnic-Prefix.pch";
 				INFOPLIST_FILE = "ElectricPicnic/ElectricPicnic-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "D9E07429-2B66-43E4-A2B7-5CB7D77D3184";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "D9E07429-2B66-43E4-A2B7-5CB7D77D3184";
+				TARGETED_DEVICE_FAMILY = 1;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
